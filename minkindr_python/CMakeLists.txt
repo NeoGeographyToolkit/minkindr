@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+CMAKE_MINIMUM_REQUIRED(VERSION 3.15)
 project(minkindr_python)
 
 find_package(catkin_simple REQUIRED)
